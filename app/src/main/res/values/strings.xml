@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleRecaptcha</string>
+    <string name="SITE_KEY">6LcX7a4ZAAAAAOBA1PlG5aWnn16J6NnEzgUvDxlB</string>
+    <string name="Secret_KEY">6LcX7a4ZAAAAAP_Z5GV0Z9XFy4u_rJ2dy6nYut_H</string>
+    <string name="i_am_not_a_robot">i\'am not a robot</string>
+    <string name="verify">verify</string>
+
+
+</resources>
